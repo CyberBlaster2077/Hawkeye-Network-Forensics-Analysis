@@ -42,4 +42,3 @@ This project involves analyzing a PCAP file using Wireshark to detect malicious 
 - Data extraction techniques  
 - Attack reconstruction  
 
-## 📂 Project Structure
